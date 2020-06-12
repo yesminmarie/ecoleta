@@ -1,5 +1,5 @@
 # Ecoleta
-Projeto desenvolvido na 1ª Next Level Week
+Projeto desenvolvido na 1ª Next Level Week (Booster) com o instrutor Diego Fernandes.
 
 # Tecnologias utilizadas:
 - Node.js
